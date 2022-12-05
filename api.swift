@@ -1,5 +1,0 @@
-class api {
-
-var test
-
-}
